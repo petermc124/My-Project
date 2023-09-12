@@ -1,0 +1,14 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "a project to help me learn javascrip :D",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawwell",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
